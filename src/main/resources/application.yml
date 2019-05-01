@@ -1,3 +1,7 @@
 spring:
   application:
-    name: spring-cloud-eureka-client
+    name: eureka-client
+eureka:
+  client:
+    service-url:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
