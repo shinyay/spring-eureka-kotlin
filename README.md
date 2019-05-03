@@ -30,6 +30,8 @@ server:
 ./gradlew clean bootRun -x test
 ```
 
+- [Eureka dashboard - http://localhost:8761](http://localhost:8761)
+
 ### Run Eureka Client
 
 - [shinyay/spring-eureka-kotlin](https://github.com/shinyay/spring-eureka-kotlin)
