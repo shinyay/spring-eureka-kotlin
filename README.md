@@ -4,6 +4,13 @@ Overview
 
 ## Description
 
+This application runs as ramdom port with following configuration;
+
+```
+server:
+  port: 0
+```
+
 ## Demo
 
 ## Features
