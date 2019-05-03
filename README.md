@@ -40,6 +40,12 @@ server:
 ./gradlew clean bootRun -x test
 ```
 
+### Access Application
+
+```
+$ curl http://localhost:<RANDOM-PORT>/greeting
+```
+
 ## Installation
 
 ## Licence
